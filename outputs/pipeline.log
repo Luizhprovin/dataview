@@ -1,0 +1,28 @@
+INFO | Estrutura do projeto configurada
+INFO | CSV salvo com sucesso: data/raw/vendas.csv
+INFO | CSV carregado com sucesso: 220 linhas
+INFO | RF01 concluida: dataset bruto salvo e recarregado de data/raw/vendas.csv com 220 linhas
+INFO | RF02 concluida: inspecao inicial executada
+INFO | RF03 concluida: 27 registros removidos na limpeza geral
+INFO | CSV salvo com sucesso: data/processed/v1_com_outliers/vendas_v1.csv
+INFO | Versao v1 salva em data/processed/v1_com_outliers/vendas_v1.csv
+INFO | CSV salvo com sucesso: data/processed/v2_outliers_tratado/vendas_v2.csv
+INFO | RF04 concluida: v2 salva em data/processed/v2_outliers_tratado/vendas_v2.csv com 181 linhas
+INFO | RF05 concluida: colunas derivadas criadas
+INFO | RF06 concluida: metricas agregadas calculadas
+INFO | RF07 concluida: 34 clientes segmentados
+INFO | RF08 concluida: estatisticas NumPy calculadas
+INFO | Grafico salvo com sucesso: outputs/graficos/receita_por_mes.png
+INFO | Grafico salvo com sucesso: outputs/graficos/top_produtos.png
+INFO | Grafico salvo com sucesso: outputs/graficos/distribuicao_receita_regiao.png
+INFO | Grafico salvo com sucesso: outputs/graficos/clientes_por_segmento.png
+INFO | Grafico salvo com sucesso: outputs/graficos/pairplot_relacoes_numericas.png
+INFO | RF09 concluida: graficos salvos em outputs/graficos
+INFO | CSV salvo com sucesso: outputs/metricas_por_mes.csv
+INFO | CSV salvo com sucesso: outputs/segmentacao_clientes.csv
+INFO | JSON salvo com sucesso: outputs/estatisticas_gerais.json
+INFO | JSON lido com sucesso: outputs/estatisticas_gerais.json
+INFO | RF11 concluida: CSVs e JSON exportados
+INFO | CSV salvo com sucesso: data/final/vendas_final.csv
+INFO | Dataset final salvo em data/final/vendas_final.csv
+INFO | Validacao final concluida: todos os arquivos esperados existem
