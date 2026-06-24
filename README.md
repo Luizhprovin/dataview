@@ -112,7 +112,7 @@ Como diferencial, o projeto registra as etapas principais em `outputs/pipeline.l
 
 ## Video de demonstracao
 
-Link a preencher antes da entrega no AVA.
+https://drive.google.com/file/d/1Cbc98pl5Khbn9YBHrpvMRS4Zvq_bz6-L/view?usp=sharing
 
 ## Repositorio
 
